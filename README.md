@@ -15,6 +15,5 @@ Able to develop backend in: PHP and C#.<br />
 ![](https://github-profile-trophy.vercel.app/?username=MajidAbuRmelah&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MajidAbuRmelah&icon=5&color=1)](https://visitcount.itsvg.in)
