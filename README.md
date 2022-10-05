@@ -1,7 +1,7 @@
-Innovative and reliable full stack software engineer with experience in developing Windows and web apps. Strong working knowledge in algorithms, data structures, object-oriented programming, excellent debugging skills and great experience in asynchronous programming. Dedicated to deliver the best optimal solutions on any given task.
-Able to create Windows apps in the following technologies: WPF, UWP and MAUI in C#.
-Able to create Web apps in: Vanilla JavaScript, React and Angular.
-Able to develop backend in: PHP and C#.
+# Innovative and reliable full stack software engineer with experience in developing Windows and web apps. Strong working knowledge in algorithms, data structures, object-oriented programming, excellent debugging skills and great experience in asynchronous programming. Dedicated to deliver the best optimal solutions on any given task.
+# Able to create Windows apps in the following technologies: WPF, UWP and MAUI in C#.
+# Able to create Web apps in: Vanilla JavaScript, React and Angular.
+# Able to develop backend in: PHP and C#.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/majidaburmelah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/majidaburmila) 
