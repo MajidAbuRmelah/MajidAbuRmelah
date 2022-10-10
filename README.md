@@ -1,5 +1,5 @@
 Innovative and reliable full stack software engineer with experience in developing Windows and web apps. Strong working knowledge in algorithms, data structures, object-oriented programming, excellent debugging skills and great experience in asynchronous programming. Dedicated to deliver the best optimal solutions on any given task.<br /><br />
-Able to create Windows apps in the following technologies: WPF, UWP and MAUI in C#.<br />
+Able to create Windows apps in: WPF, UWP and MAUI in C#.<br />
 Able to create Web apps in: Vanilla JavaScript, React and Angular.<br />
 Able to develop backend in: PHP and C#.<br />
 
